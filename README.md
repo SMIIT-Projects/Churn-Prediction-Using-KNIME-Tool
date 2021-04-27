@@ -74,6 +74,7 @@ View the predicted report of customer will Exit bank or not that’s way we use 
 
 ### These Blog and KNIME Workflow is available on our GitHub.
 ### Blog Site:     
+https://www.smiit.xyz/churn-prediction-using-knime-tool/
 ### GitHub Link:	 
 https://github.com/SMIIT-Projects/Churn-Prediction-Using-KNIME-Tool
 
